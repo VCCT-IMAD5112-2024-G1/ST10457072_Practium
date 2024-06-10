@@ -5,7 +5,7 @@ i am part of a team of developers that were taksed to create a program that reco
 is collect the information of the past days and the calculate the average of that weather. But the user who will use this app needs to know on what they this weather occured and 
 the temperature so the app has to record and present that needed information.
 
-Github link: https://github.com/siphosipho/ST10457072_SiphosethuMangali
+Github link: https://github.com/siphosipho/ST10457072_Practium
 
 step 1: when the user opens the app ithey are welcomed by the loading screen
 ![imad exxam 1](https://github.com/siphosipho/ST10457072_SiphosethuMangali/assets/164025384/6ef0af38-2e1a-45b9-80ee-0a9da3a4cff3)
