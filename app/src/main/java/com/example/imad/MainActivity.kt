@@ -6,7 +6,7 @@ import android.widget.Button
 import androidx.appcompat.app.AppCompatActivity
 import com.example.imad.R
 
-//uhhu
+//uhhuk
 class MainActivity : AppCompatActivity() {
     lateinit var MainScreen: Button
 
